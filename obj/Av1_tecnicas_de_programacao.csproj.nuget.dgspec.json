@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Edval\\OneDrive\\Área de Trabalho\\Guilherme Uninove\\Av1_tecnicas_de_programacao\\Av1_tecnicas_de_programacao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Edval\\OneDrive\\Área de Trabalho\\Guilherme Uninove\\Av1_tecnicas_de_programacao\\Av1_tecnicas_de_programacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Edval\\OneDrive\\Área de Trabalho\\Guilherme Uninove\\Av1_tecnicas_de_programacao\\Av1_tecnicas_de_programacao.csproj",
+        "projectName": "Av1_tecnicas_de_programacao",
+        "projectPath": "C:\\Users\\Edval\\OneDrive\\Área de Trabalho\\Guilherme Uninove\\Av1_tecnicas_de_programacao\\Av1_tecnicas_de_programacao.csproj",
+        "packagesPath": "C:\\Users\\Edval\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edval\\OneDrive\\Área de Trabalho\\Guilherme Uninove\\Av1_tecnicas_de_programacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Edval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
